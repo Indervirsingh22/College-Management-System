@@ -1,8 +1,20 @@
 # College Management System
 College management system is an integrated console based application that handles various academic activities of a College. It is a mini python project that is used to keep and maintain the complete record of Students. It was developed using Python Tkinter and used sqlite3.
 
-Login page
+Fee report
 ![1](https://github.com/Indervirsingh22/College-Management-System/assets/111226508/45066655-a758-4966-a1ec-9fe08d7c9c93)
+
+Library management system
+![2](https://github.com/Indervirsingh22/College-Management-System/assets/111226508/77f9d1b3-4720-43ce-a6fc-16f49c53ea6d)
+
+Marksheet
+![3](https://github.com/Indervirsingh22/College-Management-System/assets/111226508/659cb987-b031-4797-8056-1c1ac0cf9bab)
+
+Search report
+![4](https://github.com/Indervirsingh22/College-Management-System/assets/111226508/12f6553e-5be4-48d0-ad09-a8f68b75c9f3)
+
+Student Information
+![5](https://github.com/Indervirsingh22/College-Management-System/assets/111226508/3cd891c9-86e9-4f97-82ed-fc008c106760)
 
 ## What's included?
 
